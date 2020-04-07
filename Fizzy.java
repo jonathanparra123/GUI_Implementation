@@ -1,5 +1,3 @@
-package CS2410.assn2;
-
 public class Fizzy
 {
     private static String multi3 = "Fizz";
@@ -21,6 +19,7 @@ public class Fizzy
 
     }
 
+//methods for modulo calculations    
 public static boolean Fizz(int i)
 {
     int calculator = i % 3;
