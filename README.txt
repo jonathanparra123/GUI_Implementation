@@ -2,6 +2,6 @@
 
 -Building GUIs with Java and JavaFX.
 
--Games and fun projects to help me GUIs.
+-Games and fun projects to help me uderstand GUIs.
 
-**************************************
+****************************************************
