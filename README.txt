@@ -36,3 +36,13 @@ adding a picture of porpotionate size might cause some
 displaying issues.
 
 *********************************************************
+
+GUI_Canvas is a GUI that lets you place and resize shapes
+such as any number of rectangles, ellipses, and lines.
+The program uses multiple event action handlers in order
+to accurately keep up with user input. Lastly, I did add
+a erase method as let the users erase any shapes they have
+created. The panes, buttons, tiles and popup screens were 
+created using the JavaFX libraries.
+
+**********************************************************
