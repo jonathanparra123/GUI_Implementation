@@ -15,7 +15,7 @@ which numbers are multiples of 3 and 5.
 
 *******************************************************
 
-Basic_GUI is a simple UI that takes user input
+Basic_UI is a simple UI that takes user input
 such as names, ages, and phone numbers then stores
 the data in an external file that is in a 
 folder called data. The programs also lets you 
