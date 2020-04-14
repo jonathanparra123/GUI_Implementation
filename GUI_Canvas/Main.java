@@ -112,8 +112,8 @@ public class Main extends Application {
                 if(choose_shape == 1) {
                     elli.setRadiusX(Math.abs(event.getX() - cx)/2);
                     elli.setRadiusY(Math.abs(event.getY() - cy)/2);
-                    elli.setCenterX(Math.abs((event.getX() + cx)) / 2);
-                    elli.setCenterY(Math.abs((event.getY() + cx)) / 2);
+                    elli.setCenterX(Math.abs((event.getX() + cx)/2);
+                    elli.setCenterY(Math.abs((event.getY() + cx)/2);
                 }else if(choose_shape == 2){
                     rect.setX(ex);
                     rect.setY(ey);
