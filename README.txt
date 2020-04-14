@@ -46,3 +46,14 @@ created. The panes, buttons, tiles and popup screens were
 created using the JavaFX libraries.
 
 **********************************************************
+
+GUI_Drawing_Shapes is an improved version of GUI_Canvas in 
+which instead of having a pop up window to choose a shape it
+will display the options from the start. The options include
+drawing an ellipes, rectangle, and free hand draw. Apart 
+from being able to draw the shapes, you can also choose the
+color inside the shape and even change the color and size 
+of the stroke. The program also comes with a erase method in 
+order to clear the targeted object.
+
+***********************************************************
