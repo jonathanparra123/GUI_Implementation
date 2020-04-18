@@ -57,3 +57,17 @@ of the stroke. The program also comes with a erase method in
 order to clear the targeted object.
 
 ***********************************************************
+
+GUI_DB is an a simple application that interacts with a 
+remote database. The program just checks if the user is 
+in the databse or not, it will ask you for a user name and 
+password. Once the user has made their input the app will
+check if the credentials are valid in the database itself.
+If there are no such credentials then you have an option
+to add your credentials to the external database. The 
+database I am using is called FireBase by google, it is 
+a "real time" database meaning that it changes its data
+in real time. I also included all the .jar files for the 
+libraries needed to run the firebase and google utilities.
+
+************************************************************
