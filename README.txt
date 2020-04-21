@@ -71,3 +71,17 @@ in real time. I also included all the .jar files for the
 libraries needed to run the firebase and google utilities.
 
 ************************************************************
+
+GUI_Minesweep is a Project which builds a simple minesweep 
+game. The reason why i wanted to do this projects was 
+because i always wanted to know how the game minesweeper 
+worked. The program starts with a start button that when
+you press it displays a gird of cells and a timer that
+increments every second. Each cell is either 
+a bomb or a clear cell. I also incorporated a left click
+event as to when a user does a left click you can turn 
+one of the cells into a flag or a question mark to keep 
+track of certain cells. Lastly once you have clicked on a 
+bomb the game is over and the program will end, if the cell
+is not a bomb it will calculate how many adjacent cells have 
+a bomb in respect to the cell clicked.
